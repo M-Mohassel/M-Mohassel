@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Mohassel
-- 👀 I’m interested in Machine Learning, Data Analytics , Statistics .
+- 👀 I’m interested in Data Analytics, Machine Learning, Statistics.
 - 🌱 I’m always trying to learn new things.
 - 💞️ Also a MBA student
 - 📫 M.Mohassel1997@gmail.com
