@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohammad Mohassel
-- 👀 I’m interested in Data Analytics, Machine Learning, Statistics.
+- 🌱 I’m currently Student at 42Berlin
+- 👀 I’m interested in Data, Statistics.
 - 🌱 I’m always trying to learn new things.
 - 💞️ Also a MBA student
 - 📫 M.Mohassel1997@gmail.com
